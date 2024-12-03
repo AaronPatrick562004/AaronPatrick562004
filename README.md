@@ -23,7 +23,7 @@ I'm Aaron, a Software Developer
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/29a53497effa079b2d07cceed2591ac96058049cce3b2ab703729829029def3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d2532333030302e7376673f7374796c653d666c6174266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465" alt="flask" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/29a53497effa079b2d07cceed2591ac96058049cce3b2ab703729829029def3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d2532333030302e7376673f7374796c653d666c6174266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465" alt="flask" width="60" height="60"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
