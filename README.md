@@ -1,4 +1,4 @@
-I'm Aaron, a Software Developer 
+I'm Aaron, and i'm a Software Developer 
 
 💻 About Me
 - 🌟 I love coding and exploring new technologies.
