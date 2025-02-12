@@ -1,13 +1,20 @@
-I'm Aaron, and i'm a Software Developer 
+**I'm Aaron, and i'm a Website Developer**
 
-💻 About Me
+**💻 About Me**
 - 🌟 I love coding and exploring new technologies.
+
 - 📚 Studying BCA at Symbiosis Institute of Computer Studies and Research, Pune
+
 - 🚀 Passionate about building dynamic web applications
+
 - 💻 Proficient in Java, Python, SQL, C++, Data Structures, and PHP, with experience in web development using HTML, CSS, and JavaScript.
+
 - 🛍️ Created an Amazon Website displaying the homepage using frontend and backend technologies like HTML, CSS, and JavaScript to simulate an e-commerce interface.
+
 - 🎥 Developed a Netflix Clone Website utilizing HTML, Python, and Django, showcasing dynamic content rendering and backend integration.
-- 🔐 Built a Password-Protected Security System using C++ on Tinkercad, integrating password protection with hardware components like Arduino Uno, breadboards, and LEDs.
+
+- 🔐 Built a Password-Protected Security System using C++ on Tinkercad, integrating password protection with hardware components like Arduino Uno, Breadboards, and LEDs.
+
 - 🤝 Collaborated in a team to design and implement an Automated Attendance System leveraging OpenCV for face recognition, with real-time video feed setup, face detection, and database integration for efficient attendance management.
 
  
