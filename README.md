@@ -18,7 +18,7 @@
 
 - 🤝 Collaborated in a team to design and implement an Automated Attendance System leveraging OpenCV for face recognition, with real-time video feed setup, face detection, and database integration for efficient attendance management.
 
-**I have create Projects and Websites such as:**</br>
+**🛠️I have create Projects and Websites such as:**</br>
 
 - Netflix Clone Website</br>
 - Amazon Clone Website</br>
