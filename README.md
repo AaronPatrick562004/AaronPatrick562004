@@ -21,10 +21,15 @@
 **🛠️I have create Projects and Websites such as:**</br>
 
 - Netflix Clone Website.</br>
+
 - Amazon Clone Website.</br>
+
 - Automated Attendance System that utilized OpenCV for Face Recognition.</br>
+
 - 2D Snake Game using Advanced Java.</br>
+
 - Online Feedback System using EclipseIDE.</br>
+
 - Password-Protected Security System.</br>
 
 <h3 align="left">🛠 Tech Stack</h3>
