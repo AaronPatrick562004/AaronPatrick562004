@@ -73,4 +73,11 @@
 </p>
 
 
-
+<div style="display: flex; flex-direction=row; flex-wrap=wrap; gap=35px;">
+  <a href="https://github.com/AaronPatrick562004">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaronPatrick562004&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile" />
+  </a>
+  <a href="https://github.com/AaronPatrick562004">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronPatrick562004&theme=midnight-purple&show_icons=true&hide_border=false&layout=donut" />
+  </a>
+  </div>
