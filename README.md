@@ -47,7 +47,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat&logo=eclipse&logoColor=white)
 
 
-**🛠️I have create Projects and Websites such as:**</br>
+**🌍I have created Projects and Websites such as:**</br>
 
 - Netflix Clone Website.</br>
 
