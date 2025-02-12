@@ -18,7 +18,14 @@
 
 - 🤝 Collaborated in a team to design and implement an Automated Attendance System leveraging OpenCV for face recognition, with real-time video feed setup, face detection, and database integration for efficient attendance management.
 
- 
+**I have create Projects and Websites such as:**</br>
+
+- Netflix Clone Website</br>
+- Amazon Clone Website</br>
+- Attendance Application using OpenCV</br>
+- 2D Snake Game using Advanced Java</br>
+- Online Feedback System using EclipseIDE</br>
+
 <h3 align="left">🛠 Tech Stack</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
