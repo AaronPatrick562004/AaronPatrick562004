@@ -8,13 +8,11 @@
 
 - 🚀 Passionate about building dynamic web applications
 
-- 💻 Proficient in Java, Python, SQL, C++, Data Structures, and PHP, with experience in web development using HTML, CSS, and JavaScript.
+- 💻 Proficient in Java, Python, SQL and PHP, with experience in web development using HTML, CSS, and JavaScript.
 
 - 🛍️ Created an Amazon Website displaying the homepage using frontend and backend technologies like HTML, CSS, and JavaScript to simulate an e-commerce interface.
 
 - 🎥 Developed a Netflix Clone Website utilizing HTML, Python, and Django, showcasing dynamic content rendering and backend integration.
-
-- 🔐 Built a Password-Protected Security System using C++ on Tinkercad, integrating password protection with hardware components like Arduino Uno, Breadboards, and LEDs.
 
 - 🤝 Collaborated in a team to design and implement an Automated Attendance System leveraging OpenCV for face recognition, with real-time video feed setup, face detection, and database integration for efficient attendance management.
 
@@ -28,10 +26,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-- 🖨️ &nbsp;
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
@@ -39,8 +33,6 @@
 
 - ⚛ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
 
 - 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -59,7 +51,6 @@
 
 - Online Feedback System using EclipseIDE.</br>
 
-- Password-Protected Security System.</br>
 
 <h3 align="left">🛠 Tech Stack</h3>
 <p align="left">
