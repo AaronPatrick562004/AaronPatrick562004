@@ -55,7 +55,7 @@
 - Online Feedback System using EclipseIDE.</br>
 
 <h3 align="left">🛠 Tech Stack</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
