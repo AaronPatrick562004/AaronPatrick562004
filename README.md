@@ -4,14 +4,21 @@
 ---
 
 ### 💻 About Me
-- 🌟 I love coding and exploring new technologies.
-- 📚 Studied BCA at Symbiosis Institute of Computer Studies and Research, Pune
-- 🚀 Passionate about building dynamic web applications
-- 💻 Proficient in Java, Python, SQL and PHP, with experience in HTML, CSS, and JavaScript.
+🌟 I love coding and exploring new technologies.  
 
-- 🛍️ Created an Amazon Website simulating an e-commerce interface.
-- 🎥 Developed a Netflix Clone Website using Django for dynamic content.
-- 🤝 Built an Automated Attendance System using OpenCV with face recognition and database integration.
+📚 Studied BCA at Symbiosis Institute of Computer Studies and Research, Pune  
+
+🚀 Passionate about building dynamic web applications  
+
+💻 Proficient in Java, Python, SQL and PHP, with experience in HTML, CSS, and JavaScript  
+
+🛍️ Created an Amazon Website simulating an e-commerce interface  
+
+🎥 Developed a Netflix Clone Website using Django for dynamic content  
+
+🤝 Built an Automated Attendance System using OpenCV with face recognition and database integration  
+
+⚽ I also enjoy playing football in my free time
 
 ---
 
