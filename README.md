@@ -19,32 +19,11 @@
 ### 🛠 Tech Stack
 
 - 👨‍💻 &nbsp;
-**Hello**</br>
-**I'm Aaron, and i'm a Website Developer**
-
-**💻 About Me**
-- 🌟 I love coding and exploring new technologies.
-
-- 📚 Studied BCA at Symbiosis Institute of Computer Studies and Research, Pune
-
-- 🚀 Passionate about building dynamic web applications
-
-- 💻 Proficient in Java, Python, SQL and PHP, with experience in web development using HTML, CSS, and JavaScript.
-
-- 🛍️ Created an Amazon Website displaying the homepage using frontend and backend technologies like HTML, CSS, and JavaScript to simulate an e-commerce interface.
-
-- 🎥 Developed a Netflix Clone Website utilizing HTML, Python, and Django, showcasing dynamic content rendering and backend integration.
-
-- 🤝 Collaborated in a team to design and implement an Automated Attendance System leveraging OpenCV for face recognition, with real-time video feed setup, face detection, and database integration for efficient attendance management.
-
-### 🛠 Tech Stack
-
-- 👨‍💻 &nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 - 🛢 &nbsp;
